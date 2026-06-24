@@ -1,0 +1,10 @@
+[package]
+name = "Ball_Collector_3d_in_Rust_with_Bevy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "=0.12.1"
+bevy_rapier3d = "=0.23.0"
+rand = "=0.8.6"
+bevy_third_person_camera = "=0.1.8"
