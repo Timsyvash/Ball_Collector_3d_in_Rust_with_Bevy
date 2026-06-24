@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b203d9d6-3cb8-4dd0-bb5f-e350148cc74d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/states.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/states.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Ball_Collector_3d_in_Rust_with_Bevy-4ec379eb8526687c/bin-Ball_Collector_3d_in_Rust_with_Bevy" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/Ball_Collector_3d_in_Rust_with_Bevy-4ec379eb8526687c/bin-Ball_Collector_3d_in_Rust_with_Bevy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/Ball_Collector_3d_in_Rust_with_Bevy-5b96b82099bd1887/test-bin-Ball_Collector_3d_in_Rust_with_Bevy" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/Ball_Collector_3d_in_Rust_with_Bevy-5b96b82099bd1887/test-bin-Ball_Collector_3d_in_Rust_with_Bevy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs22tja3g-0iw0uau-66p7g2nnq95o6lfbi7dq52deg/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs22tja3g-0iw0uau-66p7g2nnq95o6lfbi7dq52deg/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs22tja3g-0iw0uau-66p7g2nnq95o6lfbi7dq52deg/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs22tja3g-0iw0uau.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs25jj9yc-1e3o6du-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs25jj9yc-1e3o6du-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs25jj9yc-1e3o6du-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs25jj9yc-1e3o6du-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-08s70q4yap51w/s-hjs25jj9yc-1e3o6du.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs22tj8uw-0r4qtk2-bcsjc5mkmor0kcdk34jxhz9ie/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs22tj8uw-0r4qtk2-bcsjc5mkmor0kcdk34jxhz9ie/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs22tj8uw-0r4qtk2-bcsjc5mkmor0kcdk34jxhz9ie/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs22tj8uw-0r4qtk2.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs25jja20-1jw38t9-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs25jja20-1jw38t9-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs25jja20-1jw38t9-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs25jja20-1jw38t9-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/Ball_Collector_3d_in_Rust_with_Bevy-34l6ap5iwc73b/s-hjs25jja20-1jw38t9.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7ukKMDll" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3FRg3HL5UbsM8b6g2TRZzETv1HM" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Merging Ball__Collector__3d__in__Rust__with__Bevy",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Timofey/Documents/Rust_projects_in_RustRover/Ball_Collector_3d_in_Rust_with_Bevy/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Timofey\Documents\Rust_projects_in_RustRover\Ball_Collector_3d_in_Rust_with_Bevy\assets" />
+      <recent name="C:\Users\Timofey\Documents\Rust_projects_in_RustRover\Ball_Collector_3d_in_Rust_with_Bevy" />
+      <recent name="C:\Users\Timofey\Documents\Rust_projects_in_RustRover\Ball_Collector_3d_in_Rust_with_Bevy\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package Ball_Collector_3d_in_Rust_with_Bevy --bin Ball_Collector_3d_in_Rust_with_Bevy" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b203d9d6-3cb8-4dd0-bb5f-e350148cc74d" name="Changes" comment="" />
+      <created>1782043098809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782043098809</updated>
+      <workItem from="1782043103708" duration="11472000" />
+      <workItem from="1782063646812" duration="223000" />
+      <workItem from="1782064050016" duration="1305000" />
+      <workItem from="1782106160318" duration="71000" />
+      <workItem from="1782121147396" duration="4937000" />
+      <workItem from="1782145133843" duration="6411000" />
+      <workItem from="1782209376304" duration="6292000" />
+      <workItem from="1782224646131" duration="10303000" />
+      <workItem from="1782274904964" duration="2307000" />
+      <workItem from="1782316390941" duration="6647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
